@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sheharyar Ahmad  
+# 👋 Hi, I'm Muhammad Sheharyar  
 
 ## 🚀 Senior Software Engineer | Full-Stack Developer | AI Enthusiast  
 
