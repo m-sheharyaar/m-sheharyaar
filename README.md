@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Sheharyar  
 
-## 🚀 Senior Software Engineer | Full-Stack Developer | AI Enthusiast  
+## 🚀 Senior Software Engineer | Full-Stack Developer
 
 I specialize in building **scalable web and mobile applications** using modern frameworks and cloud technologies. With **6+ years** of experience, I have worked on projects ranging from **enterprise-grade SaaS platforms** to **AI-powered applications**.  
 
